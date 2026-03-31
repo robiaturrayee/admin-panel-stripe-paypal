@@ -1,2 +1,5 @@
-# admin-panel-stripe-paypal
-admin panel and payment gateway integrated
+# Laravel Admin Panel with Stripe & PayPal
+
+- Product CRUD
+- Payment Integration
+- Role-based Auth
